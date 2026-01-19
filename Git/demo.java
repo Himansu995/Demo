@@ -31,6 +31,12 @@
 // From github:-
 // git clone link :- to copy any http link of code of github repo in sysytem
 // 22:10:00 to create repo
+// git init -b main
+// git add .
+// git commit -m "first commit"
+// git remote add origin https://github.com/you/repo.git
+// git push -u origin main
+
 
 //git push origin main :- to push to git repo or modify any file
 
