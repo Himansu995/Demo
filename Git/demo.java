@@ -58,10 +58,14 @@
 // to do some changes and want to prevent old version also then create new branch and do changes in them
 // git checkout -b branchname 
 // git branch :- to see all branch
+// then also need to push and here not direct push
+// git add .
+// git commit -m "your message here"
+// git push -u origin main
 
 // git switch branchname :- code will also go to what was in that branch
 
-
+// git branch -d branchname :- to delete branch
 
 public class demo {
     public static void main(String []args){
