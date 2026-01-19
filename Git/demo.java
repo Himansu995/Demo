@@ -55,6 +55,12 @@
 // git push
 // git push --tags
 
+// to do some changes and want to prevent old version also then create new branch and do changes in them
+// git checkout -b branchname 
+// git branch :- to see all branch
+
+// git switch branchname :- code will also go to what was in that branch
+
 
 
 public class demo {
