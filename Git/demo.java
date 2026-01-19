@@ -30,7 +30,9 @@
 
 // From github:-
 // git clone link :- to copy any http link of code of github repo in sysytem
-// 22:10:00 to create repo
+
+
+// **********22:10:00 to create repo
 // git init -b main
 // git add .
 // git commit -m "first commit"
@@ -38,7 +40,22 @@
 // git push -u origin main
 
 
-//git push origin main :- to push to git repo or modify any file
+//********** to change any file and reupload
+// git status
+// git add .
+// git commit -m "your message here"
+// git push
+
+// to see all versions or previous data :- see history and go to commit and  data at that commit will be there
+
+// tags :- name or version of that commit
+// git add .
+// git commit -m "Project complete"
+// git tag -a v1.0 -m "Submission version"
+// git push
+// git push --tags
+
+
 
 public class demo {
     public static void main(String []args){
