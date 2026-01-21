@@ -67,6 +67,7 @@
 
 // git branch -d branchname :- to delete branch
 
+// git merge branch2 :- to copy same branch data to other here branch2 data will be added to current branch
 public class demo {
     public static void main(String []args){
 
